@@ -6,3 +6,6 @@
 
 - Run `node icue.js` in order to see/view the results!
 - Follow this Replit, like and share for more to come!
+
+- This is also hosted on our Github in which you too can view a live deployment here https://github.com/icueMike/JS2HTML_Output
+- Any issues can be found, reported and or posted https://github.com/icueMike/JS2HTML_Output/issues
